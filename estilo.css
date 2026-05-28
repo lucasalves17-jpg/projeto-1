@@ -10,7 +10,7 @@ body{
     font-family: "Arimo", sans-serif;
 }
  .cabecalho{
-    background-color: rgb(251, 215, 16);
+    background-color: rgb(251, 16, 239);
      display: flex;
     justify-content: space-between;
     padding: 15px 25px;  
