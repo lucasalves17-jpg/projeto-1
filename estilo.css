@@ -3,11 +3,11 @@
     padding:0;
 } 
 
-body{}
+body{
     background-color: black;
 }
  .cabecalho{
-    background-color: black;
+    background-color: rgb(178, 88, 88);
      display: flex;
     justify-content: space-between;
  }
