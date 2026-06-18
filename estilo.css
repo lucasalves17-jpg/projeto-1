@@ -18,6 +18,31 @@ body{
 
 }
 
+.cartao{
+    width: 260px;
+    height: 200px;
 
+}
 
+.cartao img{
+    width: 80%;
+
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+}
+
+.cartao-inteno{
+position: relative;
+transition: transform 0.8s;
+transform style: preserve-3d;
+}
+
+.cartao: houver .cartao-inteno{
+    transform:rotate( 180deg)
+}
 
