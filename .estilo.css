@@ -6,13 +6,13 @@
 } 
 
 body{ 
-    background-color: rgba(245, 27, 208, 0.651); 
+    background-color: rgba(175, 20, 0, 0.651); 
     color:black; 
     font-family: "Playfair Display", serif; 
 } 
 
 .cabecalho{ 
-    background-color: rgb(158, 172, 171); 
+    background-color: rgb(0, 68, 64); 
     display: flex; 
     justify-content: space-between; 
     padding: 15px 25px; 
@@ -35,7 +35,7 @@ main{
      flex: 1;
     }
 
-     .cartao-interno{ 
+ .cartao-interno{ 
         position: relative; 
         transition: transform 0.8s; 
         transform-style: preserve-3d; 
