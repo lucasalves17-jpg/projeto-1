@@ -25,20 +25,20 @@ body{
 
 .cartao img{ 
     width: 100%;
- }
+}
 
 main{ 
     display: flex; 
     flex-direction: column; 
     align-items: center;
      flex: 1;
-    }
+}
 
- .cartao-interno{ 
+.cartao-interno{ 
         position: relative; 
         transition: transform 0.8s; 
         transform-style: preserve-3d; 
-    } 
+} 
 
 
 
